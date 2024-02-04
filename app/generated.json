@@ -1,0 +1,102 @@
+[
+  {
+    "index": 0,
+    "gradient": "radial-gradient(at 50% 50%, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%), radial-gradient(at 70% 60%, rgb(195, 224, 96) 0%, rgba(195, 224, 96, 0) 90%), radial-gradient(at 30% 30%, rgb(195, 224, 96) 0%, rgba(195, 224, 96, 0) 60%), radial-gradient(at left bottom, rgb(0, 163, 203) 0%, rgba(0, 163, 203, 0) 70%), linear-gradient(135deg, rgba(18, 46, 119, 0) 0%, rgba(18, 46, 119, 0) 75%, rgb(18, 46, 119) 100%), linear-gradient(to right, rgb(98, 87, 147) 0%, rgb(213, 93, 100) 35%, rgb(228, 145, 41) 65%, rgb(192, 103, 28) 100%)",
+    "backgroundBlendMode": "screen, luminosity, saturation, darken, color-dodge, color"
+  },
+  {
+    "index": 1,
+    "gradient": "radial-gradient(at 50% 50%, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%), radial-gradient(at 70% 60%, rgb(195, 224, 96) 0%, rgba(195, 224, 96, 0) 90%), radial-gradient(at 30% 30%, rgb(195, 224, 96) 0%, rgba(195, 224, 96, 0) 60%), radial-gradient(at left bottom, rgb(0, 163, 203) 0%, rgba(0, 163, 203, 0) 70%), linear-gradient(135deg, rgba(18, 46, 119, 0) 0%, rgba(18, 46, 119, 0) 75%, rgb(18, 46, 119) 100%), linear-gradient(to right, rgb(98, 87, 147) 0%, rgb(213, 93, 100) 35%, rgb(228, 145, 41) 65%, rgb(192, 103, 28) 100%)",
+    "backgroundBlendMode": "overlay, luminosity, multiply, saturation, color-dodge, lighten"
+  },
+  {
+    "index": 2,
+    "gradient": "radial-gradient(at 50% 50%, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%), radial-gradient(at 70% 60%, rgb(195, 224, 96) 0%, rgba(195, 224, 96, 0) 90%), radial-gradient(at 30% 30%, rgb(195, 224, 96) 0%, rgba(195, 224, 96, 0) 60%), radial-gradient(at left bottom, rgb(0, 163, 203) 0%, rgba(0, 163, 203, 0) 70%), linear-gradient(135deg, rgba(18, 46, 119, 0) 0%, rgba(18, 46, 119, 0) 75%, rgb(18, 46, 119) 100%), linear-gradient(to right, rgb(98, 87, 147) 0%, rgb(213, 93, 100) 35%, rgb(228, 145, 41) 65%, rgb(192, 103, 28) 100%)",
+    "backgroundBlendMode": "lighten, saturation, screen, color, color-dodge, multiply"
+  },
+  {
+    "index": 3,
+    "gradient": "radial-gradient(at 50% 50%, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%), radial-gradient(at 70% 60%, rgb(195, 224, 96) 0%, rgba(195, 224, 96, 0) 90%), radial-gradient(at 30% 30%, rgb(195, 224, 96) 0%, rgba(195, 224, 96, 0) 60%), radial-gradient(at left bottom, rgb(0, 163, 203) 0%, rgba(0, 163, 203, 0) 70%), linear-gradient(135deg, rgba(18, 46, 119, 0) 0%, rgba(18, 46, 119, 0) 75%, rgb(18, 46, 119) 100%), linear-gradient(to right, rgb(98, 87, 147) 0%, rgb(213, 93, 100) 35%, rgb(228, 145, 41) 65%, rgb(192, 103, 28) 100%)",
+    "backgroundBlendMode": "lighten, multiply, saturation, overlay, screen, darken"
+  },
+  {
+    "index": 4,
+    "gradient": "radial-gradient(at 50% 50%, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%), radial-gradient(at 70% 60%, rgb(195, 224, 96) 0%, rgba(195, 224, 96, 0) 90%), radial-gradient(at 30% 30%, rgb(195, 224, 96) 0%, rgba(195, 224, 96, 0) 60%), radial-gradient(at left bottom, rgb(0, 163, 203) 0%, rgba(0, 163, 203, 0) 70%), linear-gradient(135deg, rgba(18, 46, 119, 0) 0%, rgba(18, 46, 119, 0) 75%, rgb(18, 46, 119) 100%), linear-gradient(to right, rgb(98, 87, 147) 0%, rgb(213, 93, 100) 35%, rgb(228, 145, 41) 65%, rgb(192, 103, 28) 100%)",
+    "backgroundBlendMode": "overlay, luminosity, color-dodge, saturation, screen, color"
+  },
+  {
+    "index": 5,
+    "gradient": "radial-gradient(at 50% 50%, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%), radial-gradient(at 70% 60%, rgb(195, 224, 96) 0%, rgba(195, 224, 96, 0) 90%), radial-gradient(at 30% 30%, rgb(195, 224, 96) 0%, rgba(195, 224, 96, 0) 60%), radial-gradient(at left bottom, rgb(0, 163, 203) 0%, rgba(0, 163, 203, 0) 70%), linear-gradient(135deg, rgba(18, 46, 119, 0) 0%, rgba(18, 46, 119, 0) 75%, rgb(18, 46, 119) 100%), linear-gradient(to right, rgb(98, 87, 147) 0%, rgb(213, 93, 100) 35%, rgb(228, 145, 41) 65%, rgb(192, 103, 28) 100%)",
+    "backgroundBlendMode": "screen, lighten, luminosity, overlay"
+  },
+  {
+    "index": 6,
+    "gradient": "linear-gradient(26.62deg, rgba(249, 124, 89, 0.8) 20.64%, rgba(249, 124, 89, 0) 49.82%), linear-gradient(56.79deg, rgb(185, 91, 230) 33.79%, rgba(185, 91, 230, 0) 72.67%), linear-gradient(301.08deg, rgba(252, 178, 91, 0.91) 20.42%, rgba(252, 178, 91, 0) 60.38%), linear-gradient(141.57deg, rgba(78, 173, 235, 0.85) 19.08%, rgba(78, 173, 235, 0) 98.72%, rgb(211, 228, 255))",
+    "backgroundBlendMode": "normal, hard-light, normal, darken, normal, normal"
+  },
+  {
+    "index": 7,
+    "gradient": "linear-gradient(26.62deg, rgba(249, 124, 89, 0.8) 20.64%, rgba(249, 124, 89, 0) 49.82%), linear-gradient(56.79deg, rgb(185, 91, 230) 33.79%, rgba(185, 91, 230, 0) 72.67%), linear-gradient(301.08deg, rgba(252, 178, 91, 0.91) 20.42%, rgba(252, 178, 91, 0) 60.38%), linear-gradient(141.57deg, rgba(78, 173, 235, 0.85) 19.08%, rgba(78, 173, 235, 0) 98.72%, rgb(211, 228, 255))",
+    "backgroundBlendMode": "darken, normal, normal, normal, normal, normal"
+  },
+  {
+    "index": 8,
+    "gradient": "linear-gradient(26.62deg, rgba(249, 124, 89, 0.8) 20.64%, rgba(249, 124, 89, 0) 49.82%), linear-gradient(56.79deg, rgb(185, 91, 230) 33.79%, rgba(185, 91, 230, 0) 72.67%), linear-gradient(301.08deg, rgba(252, 178, 91, 0.91) 20.42%, rgba(252, 178, 91, 0) 60.38%), linear-gradient(141.57deg, rgba(78, 173, 235, 0.85) 19.08%, rgba(78, 173, 235, 0) 98.72%, rgb(211, 228, 255))",
+    "backgroundBlendMode": "normal, normal, darken, normal, normal, normal"
+  },
+  {
+    "index": 9,
+    "gradient": "radial-gradient(63.62% 69.52% at 100% 0%, rgba(247, 214, 98, 0.8) 0%, rgba(247, 214, 98, 0.17) 52.08%, rgba(247, 214, 98, 0) 100%), linear-gradient(208.42deg, rgb(240, 66, 42) 7.46%, rgba(240, 88, 42, 0.18) 42.58%, rgba(240, 101, 42, 0) 64.13%), radial-gradient(114.51% 122.83% at 0% -15.36%, rgb(231, 79, 106) 0%, rgba(231, 79, 106, 0.22) 66.72%, rgba(231, 79, 106, 0) 100%), linear-gradient(333.95deg, rgba(83, 208, 236, 0.85) -7.76%, rgba(83, 208, 236, 0.204) 19.67%, rgba(138, 137, 190, 0) 35.42%), radial-gradient(109.15% 148.57% at 4.46% 98.44%, rgb(27, 49, 128) 0%, rgba(27, 49, 128, 0) 100%), linear-gradient(141.57deg, rgb(78, 173, 235) 19.08%, rgba(78, 173, 235, 0) 98.72%)",
+    "backgroundBlendMode": "normal, normal, normal, normal, multiply, normal"
+  },
+  {
+    "index": 10,
+    "gradient": "linear-gradient(26.62deg, rgba(249, 124, 89, 0.8) 20.64%, rgba(249, 124, 89, 0) 49.82%), linear-gradient(56.79deg, rgb(185, 91, 230) 33.79%, rgba(185, 91, 230, 0) 72.67%), linear-gradient(301.08deg, rgba(252, 178, 91, 0.91) 20.42%, rgba(252, 178, 91, 0) 60.38%), linear-gradient(141.57deg, rgba(78, 173, 235, 0.85) 19.08%, rgba(78, 173, 235, 0) 98.72%, rgb(211, 228, 255))",
+    "backgroundBlendMode": "hard-light, darken, normal, normal, normal, normal"
+  },
+  {
+    "index": 11,
+    "gradient": "radial-gradient(110.88% 79.69% at 47.77% 151.82%, rgb(255, 236, 69) 0%, rgba(255, 236, 69, 0.3) 54.92%, rgba(255, 236, 69, 0) 96.11%), radial-gradient(50% 68.23% at 98.21% 96.61%, rgb(65, 209, 183) 0%, rgba(65, 209, 183, 0.35) 49.27%, rgba(65, 209, 183, 0) 100%), radial-gradient(83.71% 75.52% at -10.04% 2.86%, rgb(130, 99, 219) 0%, rgba(129, 114, 218, 0.26) 56.87%, rgba(129, 114, 218, 0) 100%), linear-gradient(rgb(88, 204, 220) 0%, rgba(88, 204, 220, 0) 100%), linear-gradient(81.23deg, rgb(255, 85, 126) 21.4%, rgba(255, 85, 85, 0) 84.87%, rgb(242, 245, 250))",
+    "backgroundBlendMode": "normal, normal, darken, normal, normal, normal"
+  },
+  {
+    "index": 12,
+    "gradient": "radial-gradient(92.71% 92.71% at 7.59% 128.39%, rgb(255, 238, 194) 0%, rgba(255, 238, 194, 0.21) 60.42%, rgba(194, 233, 255, 0) 100%), radial-gradient(49.19% 88.28% at 27.01% -13.54%, rgba(93, 227, 236, 0.73) 0%, rgba(93, 227, 236, 0.17) 59.78%, rgba(93, 227, 236, 0) 100%), radial-gradient(114.51% 155.86% at 90.18% 89.06%, rgba(254, 75, 139, 0.7) 0%, rgba(254, 75, 139, 0) 100%), linear-gradient(237.32deg, rgb(69, 74, 187) 18.14%, rgba(69, 74, 187, 0.76) 31.3%, rgba(69, 74, 187, 0.39) 49.35%, rgba(91, 196, 230, 0) 76.77%), radial-gradient(118.75% 118.75% at 3.35% 25.78%, rgb(48, 142, 230) 0%, rgba(48, 158, 230, 0) 73.91%, rgb(242, 245, 250))",
+    "backgroundBlendMode": "normal, hard-light, normal, darken, normal, normal"
+  },
+  {
+    "index": 13,
+    "gradient": "radial-gradient(61.98% 61.98% at 100% 0%, rgba(32, 30, 147, 0.65) 0%, rgba(32, 30, 147, 0.24) 49.77%, rgba(2, 209, 255, 0) 100%), radial-gradient(50% 68.23% at 98.21% 96.61%, rgba(65, 209, 201, 0.73) 0%, rgba(65, 209, 183, 0.337) 57.82%, rgba(65, 209, 183, 0) 100%), radial-gradient(72.32% 89.58% at 1.34% 3.39%, rgb(247, 78, 118) 0%, rgba(242, 87, 87, 0) 100%), linear-gradient(rgb(88, 204, 220) 0%, rgba(88, 204, 220, 0) 100%), linear-gradient(62.9deg, rgb(133, 50, 199) 14.56%, rgba(133, 50, 199, 0) 92.07%, rgb(242, 245, 250))",
+    "backgroundBlendMode": "normal, normal, normal, normal, normal, normal"
+  },
+  {
+    "index": 14,
+    "gradient": "linear-gradient(197.37deg, rgb(116, 80, 219) -0.38%, rgba(138, 234, 240, 0) 101.89%), linear-gradient(115.93deg, rgb(62, 136, 246) 4.86%, rgba(62, 180, 246, 0.33) 38.05%, rgba(62, 235, 246, 0) 74.14%), radial-gradient(56.47% 76.87% at 6.92% 7.55%, rgba(62, 136, 246, 0.7) 0%, rgba(62, 158, 246, 0.18) 52.16%, rgba(62, 246, 246, 0) 100%), linear-gradient(306.53deg, rgb(46, 228, 227) 19.83%, rgba(46, 228, 227, 0) 97.33%)",
+    "backgroundBlendMode": "normal, normal, normal, normal, normal, normal"
+  },
+  {
+    "index": 15,
+    "gradient": "radial-gradient(73.4% 100.98% at 95.54% 95.05%, rgba(255, 156, 65, 0.78) 0%, rgba(255, 168, 88, 0) 100%), linear-gradient(197.37deg, rgb(255, 240, 164) -0.38%, rgba(255, 240, 164, 0) 101.89%), radial-gradient(58.85% 73.83% at 9.82% 3.13%, rgba(49, 132, 255, 0.8) 0%, rgba(56, 75, 247, 0.208) 52.16%, rgba(62, 246, 246, 0) 100%), linear-gradient(117.39deg, rgb(62, 158, 246) 3.91%, rgba(238, 43, 183, 0.33) 37.48%, rgba(246, 62, 106, 0) 73.98%), linear-gradient(306.53deg, rgb(255, 170, 221) 19.83%, rgba(255, 170, 221, 0) 97.33%)",
+    "backgroundBlendMode": "normal, normal, normal, normal, normal, normal"
+  },
+  {
+    "index": 16,
+    "gradient": "linear-gradient(rgb(52, 29, 101) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(65, 244, 255, 0.78) 0%, rgba(128, 217, 255, 0.78) 46.52%, rgba(65, 198, 255, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%)",
+    "backgroundBlendMode": "normal, normal, normal, normal, normal, normal"
+  },
+  {
+    "index": 17,
+    "gradient": "linear-gradient(rgb(239, 81, 109) 0%, rgba(239, 81, 109, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(65, 244, 255, 0.78) 0%, rgba(131, 218, 255, 0.655) 32.29%, rgba(99, 175, 240, 0.396) 64.06%, rgba(43, 90, 211, 0) 100%), linear-gradient(313.04deg, rgb(52, 29, 101) 0.93%, rgb(96, 74, 234) 125.68%)",
+    "backgroundBlendMode": "screen, luminosity, saturation, darken, color-dodge, color"
+  },
+  {
+    "index": 18,
+    "gradient": "radial-gradient(62.61% 62.61% at 95.23% 6.02%, rgb(22, 14, 113) 0%, rgba(19, 13, 92, 0.26) 54.71%, rgba(90, 35, 248, 0) 100%), linear-gradient(72.48deg, rgb(239, 81, 109) 2.61%, rgba(106, 103, 227, 0) 56.18%), radial-gradient(45.23% 45.23% at 35.11% -11.02%, rgb(121, 54, 174) 0%, rgba(121, 54, 174, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(65, 244, 255, 0.78) 0%, rgba(131, 218, 255, 0.655) 32.29%, rgba(99, 175, 240, 0.396) 64.06%, rgba(43, 90, 211, 0) 100%), linear-gradient(313.04deg, rgb(52, 29, 101) 0.93%, rgb(96, 74, 234) 125.68%)",
+    "backgroundBlendMode": "screen, luminosity, saturation, darken, color-dodge, color"
+  },
+  {
+    "index": 19,
+    "gradient": "radial-gradient(77.95% 77.95% at 74.66% 58.07%, rgba(255, 254, 220, 0.8) 0%, rgba(255, 255, 255, 0.153) 62.28%, rgba(255, 255, 255, 0) 100%), radial-gradient(89.67% 70.39% at 93.75% 92.16%, rgb(41, 194, 215) 0%, rgba(144, 160, 215, 0.49) 52.46%, rgba(255, 156, 156, 0) 100%), radial-gradient(68.86% 68.86% at 94.55% 1.7%, rgb(250, 220, 144) 0%, rgba(250, 220, 144, 0) 100%), linear-gradient(130.87deg, rgba(245, 115, 122, 0.78) 3.47%, rgba(245, 115, 122, 0) 77.25%)",
+    "backgroundBlendMode": "overlay, normal, normal, normal, normal, normal"
+  }
+]
