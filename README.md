@@ -13,7 +13,7 @@ Particles Blob Animation Generator is a dynamic web application developed with N
 **Clone the Repository:**
    ```bash
    git clone https://github.com/CodeWithMilap/particles-blob-generator.git
-   cd css-gradient-generator-nextjs
+   cd particles-blob-generator
 ```
 
 **Install Dependencies:**
